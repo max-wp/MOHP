@@ -1,8 +1,8 @@
 <!--Подключаемя к базе-->
 <?php
 define(HOST, localhost);
-define(USER, "root");
-define(PW, "Qwerty1");
+define(USER, "mohp_admin");
+define(PW, "rfcgth");
 define(DB, "mohp");
 $connect = mysql_connect(HOST,USER,PW)
 or die('Нет подключения к серверу базы данных mysql server.' );
