@@ -223,6 +223,10 @@
                 <li>34_antonov</li>
                 <li>34_odincov</li>
                 <li>34_litvinenko</li>
+                <p>Московский филиал</p>
+                <li>35_diakov</li>
+                <li>35_hatmulina</li>
+                <li></li>
             </ul>
         </td>
         <td>
